@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:00d4ff&height=250&section=header&text=Akshay%20Konagalla&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Fullstack%20%7C%20Real-Time%20Systems%20%7C%20Cloud-Native&descSize=16&descAlignY=62&animation=fadeIn)
 
@@ -26,7 +26,7 @@ div align="center">
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -64,8 +64,8 @@ portfolio:  akshaykonagalla.github.io
 |:---:|:---:|:---:|
 | **SCA Robotics** | Sub-second robotics UI response | React · WebSockets · AWS |
 | **HCL Technologies** | Served 10K–50K users | Node.js · PostgreSQL · Redis |
-| **EventFlow Project** | <100ms message latency | Socket.IO · Redis pub/sub |
-| **WorkPulse Project** | AI-powered analytics platform | OpenAI API · React |
+| **EventFlow** | <100ms message latency · 50+ rooms | Socket.IO · Redis pub/sub |
+| **WorkPulse** | AI productivity analytics platform | OpenAI API · React · Docker |
 
 </div>
 
@@ -87,7 +87,6 @@ portfolio:  akshaykonagalla.github.io
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -101,7 +100,6 @@ portfolio:  akshaykonagalla.github.io
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **🗄️ Databases**
 
@@ -120,7 +118,7 @@ portfolio:  akshaykonagalla.github.io
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**🤖 AI & Extras**
+**🤖 AI & Tools**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
@@ -138,14 +136,12 @@ portfolio:  akshaykonagalla.github.io
 <summary><b>🤖 SCA Robotics — Software Engineer &nbsp;|&nbsp; Apr 2025 – Apr 2026 &nbsp;|&nbsp; Emeryville, CA</b></summary>
 <br/>
 
-> 🚀 **Real-Time Robotics Engineering at Scale**
-
 - ⚡ Engineered full-stack robotics control interfaces using **React, TypeScript & WebSockets** — delivering **sub-second UI response times** for live hardware telemetry
-- ☁️ Developed & maintained **RESTful APIs** and event-driven backend services on **AWS (EC2, S3, RDS)**, bridging robotic hardware data pipelines with cloud-connected web apps
-- 🐳 Containerised & deployed microservices using **Docker + CI/CD pipelines**, ensuring environment consistency across dev and production
-- 🔐 Implemented **JWT authentication + RBAC** across internal robotics tooling, securing multi-user access to system telemetry & operator dashboards
+- ☁️ Developed **RESTful APIs** and event-driven backend on **AWS (EC2, S3, RDS)** bridging robotic hardware with cloud-connected web apps
+- 🐳 Containerised microservices using **Docker + CI/CD pipelines** for consistent dev → production deployments
+- 🔐 Implemented **JWT + RBAC** securing multi-user robotics dashboards and operator telemetry tools
 
-**Stack:** `React` `TypeScript` `Node.js` `Python` `WebSockets` `AWS` `Docker` `JWT` `RBAC`
+`React` `TypeScript` `Node.js` `Python` `WebSockets` `AWS` `Docker` `JWT` `RBAC`
 
 </details>
 
@@ -155,14 +151,12 @@ portfolio:  akshaykonagalla.github.io
 <summary><b>🏢 HCL Technologies — Associate Software Engineer &nbsp;|&nbsp; Jan 2023 – Dec 2024 &nbsp;|&nbsp; India</b></summary>
 <br/>
 
-> 🏗️ **Production E-Commerce at Scale**
+- 🛍️ Built checkout & payment features for e-commerce platform serving **10K–50K users** — React + Node.js + PostgreSQL
+- 🚀 Optimised DB queries & server-side caching → **~25% faster API response** under peak traffic
+- 🔐 Implemented **JWT auth + OWASP-aligned RBAC** across all user and transaction endpoints
+- 🔄 CI/CD pipelines & monitoring in a **6-engineer Agile team**
 
-- 🛍️ Built checkout & payment flow features for a **React + Node.js** e-commerce platform serving **10K–50K users**, including UI components, REST APIs & PostgreSQL storage
-- 🚀 Optimised database queries & implemented **server-side caching**, reducing average response time by **~25%** under peak traffic
-- 🔐 Implemented **JWT auth + RBAC** aligned with **OWASP security practices** across user accounts & transaction records
-- 🔄 Contributed to **CI/CD pipeline** setup and monitoring dashboards within a **6-engineer Agile team**
-
-**Stack:** `React` `Node.js` `PostgreSQL` `Redis` `JWT` `Docker` `CI/CD` `Agile`
+`React` `Node.js` `PostgreSQL` `Redis` `JWT` `Docker` `CI/CD` `Agile`
 
 </details>
 
@@ -173,53 +167,48 @@ portfolio:  akshaykonagalla.github.io
 <div align="center">
 
 <a href="https://github.com/akshaykonagalla/EventFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykonagalla&repo=EventFlow&theme=tokyonight&hide_border=false&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykonagalla&repo=EventFlow&theme=tokyonight&hide_border=false&border_radius=10"/>
 </a>
 <a href="https://github.com/akshaykonagalla/WorkPulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykonagalla&repo=WorkPulse&theme=tokyonight&hide_border=false&border_radius=10" />
-</a>
-
-<a href="https://github.com/akshaykonagalla/ecommerce-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykonagalla&repo=ecommerce-platform&theme=tokyonight&hide_border=false&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykonagalla&repo=WorkPulse&theme=tokyonight&hide_border=false&border_radius=10"/>
 </a>
 
 </div>
 
 <br/>
 
-### ⚡ EventFlow — Real-Time Messaging & Event Streaming
+### ⚡ EventFlow — Real-Time Messaging & Collaboration
 > 🔗 [github.com/akshaykonagalla/EventFlow](https://github.com/akshaykonagalla/EventFlow)
 
-- 💬 Built a full-stack real-time messaging platform supporting **50+ concurrent room connections** using **WebSockets + Socket.IO** — **sub-100ms message delivery latency**
-- 📡 Implemented **Redis pub/sub** for cross-room message broadcasting & session caching — reducing PostgreSQL load during peak usage
-- 🔐 Engineered **JWT-authenticated REST APIs** with modular Express.js backend — room management, user roles & persistent message history
-- 🐳 Containerised with **Docker**, deployed on **AWS EC2** with environment-based config
+- 💬 **50+ concurrent room connections** via WebSockets + Socket.IO with **sub-100ms latency**
+- 📡 **Redis pub/sub** for cross-room broadcasting & session caching
+- 🔐 JWT-authenticated REST APIs, persistent message history with PostgreSQL
+- 🐳 Docker + AWS EC2 deployment
 
-`Node.js` `Socket.IO` `Redis` `PostgreSQL` `Docker` `AWS EC2` `JWT` `Express.js`
+`Node.js` `Socket.IO` `Redis` `PostgreSQL` `Docker` `AWS` `JWT`
 
 ---
 
 ### 🧠 WorkPulse — AI-Powered Productivity Analytics
 > 🔗 [github.com/akshaykonagalla/WorkPulse](https://github.com/akshaykonagalla/WorkPulse)
 
-- 📊 Full-stack productivity platform — tracks daily work sessions, analyzes behavioral patterns, surfaces weekly insights via **interactive React dashboard** with dynamic charts & heatmaps
-- 🤖 Integrated **OpenAI API** to generate structured productivity recommendations from real session data
-- 🔐 Built secure REST APIs with **JWT auth** + scalable PostgreSQL schemas for user-specific analytics
-- 🐳 Containerised with Docker, deployed on **AWS** with multi-user environments & role-based data isolation
+- 🤖 **OpenAI API** for personalized behavioral productivity insights
+- 📊 Dynamic React dashboard with **charts, heatmaps & session tracking**
+- 🔐 JWT auth + role-based data isolation per user
+- 🐳 Docker + AWS deployment
 
-`React` `Node.js` `OpenAI API` `PostgreSQL` `Docker` `AWS` `JWT` `Redis`
+`React` `Node.js` `OpenAI API` `PostgreSQL` `Docker` `AWS` `JWT`
 
 ---
 
 ### 🛍️ E-Commerce Platform
 > 🔗 [github.com/akshaykonagalla/ecommerce-platform](https://github.com/akshaykonagalla/ecommerce-platform)
 
-- 🛒 Full-stack e-commerce — product listing, cart, secure checkout with **React + Node.js**, deployed on **AWS EC2 + S3** with CI/CD
-- 💳 Integrated **Stripe payment gateway** — end-to-end checkout with webhook handling for order confirmation & payment failure recovery
-- 🗄️ RESTful APIs for auth, order processing & product management with **optimised PostgreSQL** indexing
-- 🔐 **JWT + RBAC** securing all user & transaction data
+- 💳 **Stripe payments** with webhook handling for order & failure recovery
+- 🗄️ Optimised PostgreSQL schemas + JWT + RBAC
+- ☁️ CI/CD on **AWS EC2 + S3**
 
-`React` `Node.js` `Stripe` `PostgreSQL` `AWS` `Docker` `JWT` `RBAC` `CI/CD`
+`React` `Node.js` `Stripe` `PostgreSQL` `AWS` `Docker` `RBAC`
 
 ---
 
@@ -234,13 +223,17 @@ portfolio:  akshaykonagalla.github.io
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykonagalla&layout=donut&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykonagalla&layout=donut&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8"/>
 
 </div>
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykonagalla&theme=tokyo-night&hide_border=false&border_radius=10&area=true"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykonagalla&theme=tokyo-night&hide_border=false&border_radius=10&area=true&color=00d4ff&line=00d4ff&point=ffffff)
 
 </div>
 
@@ -256,24 +249,24 @@ portfolio:  akshaykonagalla.github.io
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/akshaykonagalla/akshaykonagalla/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
 
 | 🎓 Degree | 🏫 Institution | 📅 Period | ⭐ GPA |
 |:---|:---|:---:|:---:|
-| **Master of Science, Computer Science** | Florida Atlantic University, FL | Aug 2024 – May 2026 | **3.8 / 4.0** |
+| **MS, Computer Science** | Florida Atlantic University, FL | Aug 2024 – May 2026 | **3.8 / 4.0** |
 | **B.Tech, Computer Science** | Sathyabama Institute of Science & Technology | Jul 2020 – May 2024 | **9.0 / 10.0** |
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -290,22 +283,13 @@ portfolio:  akshaykonagalla.github.io
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a1628,100:0d0d0d&height=120&section=footer&animation=fadeIn)
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a1628,100:0d0d0d&height=120&section=footer&animation=fadeIn"/>
-
-**⭐ If you find my work interesting, give my repos a star!**
+⭐ **If you find my work valuable, give my repos a star!**
 
 *"From robotics to AI — I build systems that scale, perform, and ship."*
 
