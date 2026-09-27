@@ -1,296 +1,948 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:00d4ff&height=250&section=header&text=Akshay%20Konagalla&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Fullstack%20%7C%20Real-Time%20Systems%20%7C%20Cloud-Native&descSize=16&descAlignY=62&animation=fadeIn)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+%7C+3%2B+Years+Experience;⚡+React+%7C+Node.js+%7C+Real-Time+Systems;🤖+Built+Robotics+Control+Interfaces+%40+SCA+Robotics;🧠+AI-Powered+Apps+with+OpenAI+API;☁️+Cloud-Native+%7C+AWS+%7C+Docker+%7C+Kubernetes;💡+From+Idea+to+Production+—+I+Ship.)](https://git.io/typing-svg)
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════════
+     AKSHAY KONAGALLA • GITHUB ENGINEERING PROFILE
+     FULL STACK • DISTRIBUTED SYSTEMS • CLOUD • AI
+════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=akshaykonagalla&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🟢 Status-Open%20to%20Work-00e676?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/MS%20CS%20%40%20FAU-GPA%203.8%2F4.0-a78bfa?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Boynton%20Beach%2C%20FL-f97316?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:050A14,35:0D1B2A,70:0B4F6C,100:00B4D8&text=AKSHAY%20KONAGALLA&fontSize=48&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20DISTRIBUTED%20SYSTEMS%20%E2%80%A2%20CLOUD%20ENGINEERING&descSize=15&descAlignY=58"/>
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&repeat=true&width=950&height=50&lines=%24+building+enterprise-grade+distributed+systems;%24+engineering+Java+17+%2B+Spring+Boot+microservices;%24+shipping+React+%2B+TypeScript+experiences;%24+scaling+with+Kafka+%2B+Redis+%2B+PostgreSQL;%24+deploying+with+AWS+%2B+Kubernetes+%2B+Docker;%24+design+%E2%86%92+build+%E2%86%92+test+%E2%86%92+ship)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/EXPERIENCE-4%2B_YEARS-00B4D8?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CORE-JAVA_%2B_SPRING-6DB33F?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-DISTRIBUTED_SYSTEMS-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CLOUD-AWS_%2B_AZURE-FF9900?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+### `ENGINEER` • `ARCHITECT` • `BUILDER`
+
+</div>
+
 ---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+# `00 // SYSTEM.IDENTITY`
 
-## 👨‍💻 About Me
+```typescript
+interface Engineer {
+    name: string;
+    role: string;
+    experience: string;
 
-```yaml
-name:       Akshay Konagalla
-location:   Boynton Beach, FL, USA
-education:  MS Computer Science @ FAU (GPA 3.8/4.0)
-experience: 3+ years | SCA Robotics → HCL Technologies
+    core: string[];
+    architecture: string[];
+    cloud: string[];
+    data: string[];
+    messaging: string[];
 
-current_role:
-  company:  SCA Robotics, Emeryville CA
-  work:     Real-time robotics control interfaces
-  stack:    React + TypeScript + WebSockets + AWS
+    mission: string;
+}
 
-passion:
-  - Building systems that scale to millions
-  - Real-time data pipelines & WebSockets
-  - AI-powered product development
-  - Clean architecture & performance
+const akshay: Engineer = {
 
-open_to:    Full-time SWE roles (Remote / Hybrid)
-email:      akonagalla2024@fau.edu
-portfolio:  akshaykonagalla.github.io
+    name: "Akshay Konagalla",
+
+    role: "Full Stack Developer",
+
+    experience: "4+ years",
+
+    core: [
+        "Java 17",
+        "Spring Boot",
+        "React",
+        "TypeScript",
+        "Microservices"
+    ],
+
+    architecture: [
+        "Distributed Systems",
+        "Event-Driven Architecture",
+        "Domain-Driven Design",
+        "SOLID",
+        "REST APIs"
+    ],
+
+    cloud: [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+    ],
+
+    data: [
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Oracle",
+        "Cassandra"
+    ],
+
+    messaging: [
+        "Apache Kafka",
+        "RabbitMQ",
+        "AWS SQS"
+    ],
+
+    mission:
+        "Build secure, scalable and maintainable systems that ship."
+};
 ```
 
-<br clear="right"/>
-
----
-
-## 🏆 Career Highlights
-
 <div align="center">
 
-| 🏢 Company | 🎯 Impact | ⚡ Tech |
-|:---:|:---:|:---:|
-| **SCA Robotics** | Sub-second robotics UI response | React · WebSockets · AWS |
-| **HCL Technologies** | Served 10K–50K users | Node.js · PostgreSQL · Redis |
-| **EventFlow** | <100ms message latency · 50+ rooms | Socket.IO · Redis pub/sub |
-| **WorkPulse** | AI productivity analytics platform | OpenAI API · React · Docker |
+### From enterprise Java systems to cloud-native distributed applications.
 
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**⚡ Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**⚙️ Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**☁️ Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**🤖 AI & Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<details open>
-<summary><b>🤖 SCA Robotics — Software Engineer &nbsp;|&nbsp; Apr 2025 – Apr 2026 &nbsp;|&nbsp; Emeryville, CA</b></summary>
-<br/>
-
-- ⚡ Engineered full-stack robotics control interfaces using **React, TypeScript & WebSockets** — delivering **sub-second UI response times** for live hardware telemetry
-- ☁️ Developed **RESTful APIs** and event-driven backend on **AWS (EC2, S3, RDS)** bridging robotic hardware with cloud-connected web apps
-- 🐳 Containerised microservices using **Docker + CI/CD pipelines** for consistent dev → production deployments
-- 🔐 Implemented **JWT + RBAC** securing multi-user robotics dashboards and operator telemetry tools
-
-`React` `TypeScript` `Node.js` `Python` `WebSockets` `AWS` `Docker` `JWT` `RBAC`
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🏢 HCL Technologies — Associate Software Engineer &nbsp;|&nbsp; Jan 2023 – Dec 2024 &nbsp;|&nbsp; India</b></summary>
-<br/>
-
-- 🛍️ Built checkout & payment features for e-commerce platform serving **10K–50K users** — React + Node.js + PostgreSQL
-- 🚀 Optimised DB queries & server-side caching → **~25% faster API response** under peak traffic
-- 🔐 Implemented **JWT auth + OWASP-aligned RBAC** across all user and transaction endpoints
-- 🔄 CI/CD pipelines & monitoring in a **6-engineer Agile team**
-
-`React` `Node.js` `PostgreSQL` `Redis` `JWT` `Docker` `CI/CD` `Agile`
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/akshaykonagalla/EventFlow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykonagalla&repo=EventFlow&theme=tokyonight&hide_border=false&border_radius=10"/>
-</a>
-<a href="https://github.com/akshaykonagalla/WorkPulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akshaykonagalla&repo=WorkPulse&theme=tokyonight&hide_border=false&border_radius=10"/>
-</a>
+**I work across the entire engineering lifecycle — architecture, development, testing, deployment and production reliability.**
 
 </div>
 
 <br/>
 
-### ⚡ EventFlow — Real-Time Messaging & Collaboration
-> 🔗 [github.com/akshaykonagalla/EventFlow](https://github.com/akshaykonagalla/EventFlow)
-
-- 💬 **50+ concurrent room connections** via WebSockets + Socket.IO with **sub-100ms latency**
-- 📡 **Redis pub/sub** for cross-room broadcasting & session caching
-- 🔐 JWT-authenticated REST APIs, persistent message history with PostgreSQL
-- 🐳 Docker + AWS EC2 deployment
-
-`Node.js` `Socket.IO` `Redis` `PostgreSQL` `Docker` `AWS` `JWT`
-
 ---
 
-### 🧠 WorkPulse — AI-Powered Productivity Analytics
-> 🔗 [github.com/akshaykonagalla/WorkPulse](https://github.com/akshaykonagalla/WorkPulse)
-
-- 🤖 **OpenAI API** for personalized behavioral productivity insights
-- 📊 Dynamic React dashboard with **charts, heatmaps & session tracking**
-- 🔐 JWT auth + role-based data isolation per user
-- 🐳 Docker + AWS deployment
-
-`React` `Node.js` `OpenAI API` `PostgreSQL` `Docker` `AWS` `JWT`
-
----
-
-### 🛍️ E-Commerce Platform
-> 🔗 [github.com/akshaykonagalla/ecommerce-platform](https://github.com/akshaykonagalla/ecommerce-platform)
-
-- 💳 **Stripe payments** with webhook handling for order & failure recovery
-- 🗄️ Optimised PostgreSQL schemas + JWT + RBAC
-- ☁️ CI/CD on **AWS EC2 + S3**
-
-`React` `Node.js` `Stripe` `PostgreSQL` `AWS` `Docker` `RBAC`
-
----
-
-## 📊 GitHub Stats
+# `01 // TECH.STACK`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshaykonagalla&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykonagalla&theme=tokyonight&hide_border=false&border_radius=10"/>
+### `LANGUAGES`
 
-</div>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykonagalla&layout=donut&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykonagalla&theme=tokyo-night&hide_border=false&border_radius=10&area=true&color=00d4ff&line=00d4ff&point=ffffff)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshaykonagalla&theme=tokyonight&no-frame=false&margin-w=6&column=7"/>
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Period | ⭐ GPA |
-|:---|:---|:---:|:---:|
-| **MS, Computer Science** | Florida Atlantic University, FL | Aug 2024 – May 2026 | **3.8 / 4.0** |
-| **B.Tech, Computer Science** | Sathyabama Institute of Science & Technology | Jul 2020 – May 2024 | **9.0 / 10.0** |
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Konagalla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaykonagalla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akshaykonagalla.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshaykonagalla.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-akonagalla2024%40fau.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akonagalla2024@fau.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-akshaykonagalla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaykonagalla)
-
-</div>
+![Java](https://img.shields.io/badge/JAVA_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <br/>
 
+### `BACKEND`
+
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/SPRING_CLOUD-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+`Spring MVC` • `Spring Security` • `Spring WebFlux` • `Spring Batch`  
+`JPA` • `Hibernate` • `Microservices` • `Akka Actors` • `Akka Streams` • `Akka Clustering`
+
+<br/>
+
+### `FRONTEND`
+
+![React](https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+`React.js` • `Angular 10/16` • `Next.js` • `Redux` • `RxJS`  
+`React Query` • `WebSockets` • `HTML5` • `CSS3` • `SCSS` • `Bootstrap`
+
+<br/>
+
+### `DATA`
+
+![Postgres](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+`PostgreSQL` • `MySQL` • `MongoDB` • `Oracle`  
+`Cassandra` • `Redis` • `Supabase` • `Firebase`
+
+<br/>
+
+### `EVENT STREAMING`
+
+![Kafka](https://img.shields.io/badge/APACHE_KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br/>
+
+### `CLOUD + DEVOPS`
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</div>
+
+### AWS
+
+`EC2` • `Lambda` • `S3` • `API Gateway` • `ECS` • `EKS`
+
+### Azure
+
+`AKS` • `Azure Functions`
+
+### Infrastructure & Delivery
+
+`Docker` • `Kubernetes` • `Jenkins` • `GitHub Actions`  
+`Helm` • `Terraform` • `Git` • `GitHub`
+
+---
+
+# `02 // SYSTEM.ARCHITECTURE`
+
+```text
+                              ┌─────────────────────┐
+                              │      CLIENT         │
+                              │ React / Angular / TS│
+                              └──────────┬──────────┘
+                                         │
+                                   HTTPS / REST
+                                         │
+                              ┌──────────▼──────────┐
+                              │     API GATEWAY     │
+                              └──────────┬──────────┘
+                                         │
+                       ┌─────────────────┼─────────────────┐
+                       │                 │                 │
+                       ▼                 ▼                 ▼
+                ┌────────────┐    ┌────────────┐    ┌────────────┐
+                │ SERVICE A  │    │ SERVICE B  │    │   AUTH     │
+                │Spring Boot │    │Spring Boot │    │OAuth2/JWT  │
+                └─────┬──────┘    └──────┬─────┘    └────────────┘
+                      │                  │
+                      └────────┬─────────┘
+                               │
+                         ┌─────▼─────┐
+                         │   KAFKA   │
+                         │ EVENT BUS │
+                         └─────┬─────┘
+                               │
+                 ┌─────────────┼─────────────┐
+                 │             │             │
+                 ▼             ▼             ▼
+           ┌──────────┐  ┌──────────┐  ┌──────────┐
+           │POSTGRESQL│  │  REDIS   │  │ WORKERS  │
+           └──────────┘  └──────────┘  └─────┬────┘
+                                              │
+                                              ▼
+                                      ┌──────────────┐
+                                      │  AWS / AZURE │
+                                      └──────────────┘
+```
+
+> ### Engineering principle
+>
+> A system isn't finished when the endpoint returns `200`.
+>
+> It should also be **secure, testable, observable, maintainable, resilient and deployable.**
+
+---
+
+# `03 // PROFESSIONAL.TIMELINE`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   2022                                                       │
+│     │                                                        │
+│     ├──── DELOITTE                                           │
+│     │     Associate Java Developer                           │
+│     │                                                        │
+│     │     Java • Spring MVC • Hibernate                      │
+│     │     Oracle • SQL • JPA • JUnit                         │
+│     │                                                        │
+│     ▼                                                        │
+│   2025                                                       │
+│     │                                                        │
+│     ├──── WALMART                                            │
+│     │     Software Engineer                                  │
+│     │                                                        │
+│     │     AWS • Azure • Kubernetes                           │
+│     │     Terraform • CI/CD • Observability                  │
+│     │                                                        │
+│     ▼                                                        │
+│   2026                                                       │
+│     │                                                        │
+│     └──── GOLDMAN SACHS                                      │
+│           Sr. Full Stack Developer                           │
+│                                                              │
+│           Java • Spring Boot • React                         │
+│           Kafka • PostgreSQL • Redis                         │
+│                                                              │
+│                         ● CURRENT                            │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# `04 // GOLDMAN.SACHS`
+
+## 🏦 Sr. Full Stack Developer
+
+**`JAN 2026 → PRESENT`** • New York, NY
+
+```text
+                           BANKING PLATFORM
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+          REACT + TS         SPRING BOOT          SECURITY
+              │                   │                   │
+              │              REST APIs           SPRING
+              │                   │              SECURITY
+              │                   │                   │
+              └──────────────┬────┴───────────────────┘
+                             │
+                    ┌────────▼────────┐
+                    │  MICROSERVICES  │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+              ▼              ▼              ▼
+            KAFKA        POSTGRESQL        REDIS
+         EVENT FLOW      PERSISTENCE       CACHE
+```
+
+### Engineering Contributions
+
+- Design secure banking service workflows using **Java, Spring Boot and REST APIs**
+- Engineer responsive interfaces using **React + TypeScript**
+- Work with **PostgreSQL, SQL, Hibernate and Redis**
+- Integrate **Kafka** messaging across microservices
+- Apply **Spring Security** controls across backend services
+- Support authentication, access control and resilient service communication
+
+### `STACK`
+
+`JAVA` • `SPRING BOOT` • `REST` • `REACT` • `TYPESCRIPT`  
+`POSTGRESQL` • `HIBERNATE` • `REDIS` • `KAFKA` • `SPRING SECURITY`
+
+---
+
+# `05 // WALMART`
+
+## 🛒 Software Engineer
+
+**`JAN 2025 → DEC 2025`** • Bentonville, AR
+
+```text
+                           SOURCE
+                              │
+                              ▼
+                            GIT
+                              │
+                              ▼
+                       MAVEN / GRADLE
+                              │
+                              ▼
+                        BUILD + TEST
+                              │
+                              ▼
+                 JENKINS / GITHUB ACTIONS
+                              │
+                              ▼
+                           DOCKER
+                              │
+                              ▼
+                         KUBERNETES
+                              │
+                  ┌───────────┴───────────┐
+                  │                       │
+                  ▼                       ▼
+                 AWS                    AZURE
+                  │                       │
+                  └───────────┬───────────┘
+                              │
+                              ▼
+                       OBSERVABILITY
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+           SPLUNK         PROMETHEUS        GRAFANA
+                              │
+                              ▼
+                         CLOUDWATCH
+```
+
+### Engineering Contributions
+
+- Configured cloud-ready deployments using **Docker, Kubernetes, AWS, Azure and Terraform**
+- Automated CI/CD workflows using **Jenkins and GitHub Actions**
+- Worked with **Maven and Gradle** build pipelines
+- Validated REST endpoints and UI workflows
+- Used **JUnit, Mockito, Postman and Selenium**
+- Analyzed production logs and application metrics
+- Worked with **Splunk, Grafana, Prometheus and CloudWatch**
+
+### `STACK`
+
+`AWS` • `AZURE` • `DOCKER` • `KUBERNETES` • `TERRAFORM`  
+`JENKINS` • `GITHUB ACTIONS` • `JUNIT` • `PROMETHEUS` • `GRAFANA`
+
+---
+
+# `06 // DELOITTE`
+
+## 💻 Associate Java Developer
+
+**`JAN 2022 → JUN 2024`** • Hyderabad, India
+
+```java
+public final class EngineeringFoundation {
+
+    private final String language =
+        "Java";
+
+    private final String backend =
+        "Spring MVC + JDBC";
+
+    private final String persistence =
+        "Hibernate + JPA";
+
+    private final String database =
+        "Oracle + SQL + PL/SQL";
+
+    private final String testing =
+        "JUnit + Mockito";
+
+    private final String delivery =
+        "Maven + Git + Agile";
+
+    public String philosophy() {
+        return "Strong fundamentals create reliable systems.";
+    }
+}
+```
+
+### Engineering Contributions
+
+- Developed enterprise Java components using **Spring MVC, JDBC, JSP and Hibernate**
+- Built database-access routines using **Oracle, SQL, PL/SQL and JPA**
+- Worked with **Git, Bitbucket, JIRA and Confluence**
+- Participated in peer reviews and Agile sprint execution
+- Resolved defects and refactored Java code
+- Used **Maven, JUnit and Mockito** for build and quality workflows
+
+### `STACK`
+
+`JAVA` • `SPRING MVC` • `JDBC` • `JSP` • `HIBERNATE`  
+`ORACLE` • `SQL` • `PL/SQL` • `JPA` • `MAVEN` • `JUNIT`
+
+---
+
+# `07 // EVENT.DRIVEN`
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a1628,100:0d0d0d&height=120&section=footer&animation=fadeIn)
+![Kafka](https://img.shields.io/badge/APACHE_KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-⭐ **If you find my work valuable, give my repos a star!**
+</div>
 
-*"From robotics to AI — I build systems that scale, perform, and ship."*
+```text
+                          PRODUCER
+                              │
+                              ▼
+                      ┌───────────────┐
+                      │ EVENT STREAM  │
+                      │     KAFKA     │
+                      └───────┬───────┘
+                              │
+                ┌─────────────┼─────────────┐
+                │             │             │
+                ▼             ▼             ▼
+             SERVICE       SERVICE       SERVICE
+                A             B             C
+                │             │             │
+                ▼             ▼             ▼
+           POSTGRES        REDIS       EXTERNAL API
+```
+
+### Technologies
+
+`Apache Kafka` • `RabbitMQ` • `AWS SQS` • `Event-Driven Architecture`
+
+---
+
+# `08 // SECURITY.LAYER`
+
+<div align="center">
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Okta](https://img.shields.io/badge/OKTA-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_COGNITO-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+```text
+                         REQUEST
+                            │
+                            ▼
+                        IDENTITY
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+           OAUTH2          OKTA          COGNITO
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                           JWT
+                            │
+                            ▼
+                     SPRING SECURITY
+                            │
+                            ▼
+                      ACCESS CONTROL
+                            │
+                            ▼
+                    PROTECTED RESOURCE
+```
+
+### Security Stack
+
+`OAuth2` • `JWT` • `AWS Cognito` • `Firebase Auth`  
+`Okta` • `SSO` • `Access Control` • `Vulnerability Remediation`
+
+---
+
+# `09 // QUALITY.ENGINEERING`
+
+<div align="center">
+
+![JUnit](https://img.shields.io/badge/JUNIT_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+</div>
+
+```text
+                 ┌────────────────────────┐
+                 │   QUALITY PIPELINE     │
+                 └────────────┬───────────┘
+                              │
+                              ▼
+                          UNIT TEST
+                              │
+                              ▼
+                      INTEGRATION TEST
+                              │
+                              ▼
+                           API TEST
+                              │
+                              ▼
+                            UI TEST
+                              │
+                              ▼
+                            E2E
+                              │
+                              ▼
+                   PRODUCTION CONFIDENCE
+```
+
+### Backend
+
+`JUnit 5` • `Mockito`
+
+### Frontend
+
+`Jest` • `React Testing Library` • `Jasmine` • `Karma`
+
+### End-to-End
+
+`Cypress` • `Playwright`
+
+### Practice
+
+`Test-Driven Development`
+
+---
+
+# `10 // OBSERVABILITY`
+
+```text
+                        APPLICATION
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+         LOGS              METRICS          CLOUD DATA
+          │                  │                  │
+          ▼                  ▼                  ▼
+        SPLUNK           PROMETHEUS         CLOUDWATCH
+                             │
+                             ▼
+                           GRAFANA
+                             │
+                             ▼
+                         DASHBOARDS
+                             │
+                             ▼
+                    INCIDENT RESPONSE
+```
+
+### Production Focus
+
+`Logging` • `Metrics` • `Monitoring` • `Incident Analysis`  
+`Root-Cause Analysis` • `Service Stability`
+
+---
+
+# `11 // AI.ENGINEERING`
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/GPT_MODELS-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB_COPILOT-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+```python
+ai_engineering = {
+
+    "development": [
+        "Cursor",
+        "Claude",
+        "GitHub Copilot"
+    ],
+
+    "models": [
+        "GPT Models"
+    ],
+
+    "architecture": [
+        "RAG Pipelines"
+    ],
+
+    "principle":
+        "AI accelerates engineering. Validation protects quality."
+}
+```
+
+---
+
+# `12 // ENGINEERING.PRINCIPLES`
+
+```text
+                         ENGINEERING
+                              │
+       ┌──────────────────────┼──────────────────────┐
+       │                      │                      │
+       ▼                      ▼                      ▼
+      SOLID                  DDD                SYSTEM DESIGN
+       │                      │                      │
+       ▼                      ▼                      ▼
+ CLEAN DESIGN          DOMAIN MODELING        ARCHITECTURE
+       │                      │                      │
+       └──────────────────────┼──────────────────────┘
+                              │
+                              ▼
+                      MAINTAINABLE SYSTEMS
+```
+
+### Practices
+
+`SOLID Principles` • `Domain-Driven Design` • `System Design`  
+`Agile / Scrum` • `CI/CD Automation` • `TDD`
+
+---
+
+# `13 // DELIVERY.PIPELINE`
+
+```mermaid
+flowchart LR
+    A["CODE"] --> B["BUILD"]
+    B --> C["TEST"]
+    C --> D["SCAN"]
+    D --> E["PACKAGE"]
+    E --> F["DOCKER"]
+    F --> G["DEPLOY"]
+    G --> H["KUBERNETES"]
+    H --> I["OBSERVE"]
+    I --> J["IMPROVE"]
+```
+
+<div align="center">
+
+### `CODE` → `BUILD` → `TEST` → `SECURE` → `DEPLOY` → `OBSERVE` → `IMPROVE`
+
+</div>
+
+---
+
+# `14 // ENGINEERING.MINDSET`
+
+```text
+01 // UNDERSTAND
+        │
+        ▼
+02 // CLARIFY REQUIREMENTS
+        │
+        ▼
+03 // IDENTIFY CONSTRAINTS
+        │
+        ▼
+04 // DESIGN
+        │
+        ▼
+05 // BUILD INCREMENTALLY
+        │
+        ▼
+06 // TEST CONTINUOUSLY
+        │
+        ▼
+07 // REVIEW SECURITY
+        │
+        ▼
+08 // DEPLOY SAFELY
+        │
+        ▼
+09 // OBSERVE PRODUCTION
+        │
+        ▼
+10 // LEARN + IMPROVE
+```
+
+> **I don't measure engineering success by how much code was written.**
+>
+> I care about whether the system is understandable, reliable,
+> secure, testable, observable and maintainable after it ships.
+
+---
+
+# `15 // SKILL.MATRIX`
+
+| `DOMAIN` | `TECHNOLOGIES` |
+|:---|:---|
+| **Languages** | Java 17 · Python · TypeScript · JavaScript · Node.js · SQL · PL/SQL · C# |
+| **Backend** | Spring Boot · Spring Cloud · Spring MVC · Spring Security · WebFlux · Spring Batch |
+| **Persistence** | Hibernate · JPA |
+| **Architecture** | Microservices · DDD · SOLID · Event-Driven Architecture · System Design |
+| **Frontend** | React · Angular · Next.js · Redux · RxJS · React Query |
+| **APIs** | REST · GraphQL · WebSockets |
+| **Data** | PostgreSQL · MySQL · MongoDB · Oracle · Cassandra · Redis · Supabase · Firebase |
+| **Messaging** | Kafka · RabbitMQ · AWS SQS |
+| **Security** | OAuth2 · JWT · Cognito · Firebase Auth · Okta · SSO |
+| **AWS** | EC2 · Lambda · S3 · API Gateway · ECS · EKS |
+| **Azure** | AKS · Azure Functions |
+| **Containers** | Docker · Kubernetes |
+| **Infrastructure** | Terraform · Helm |
+| **CI/CD** | Jenkins · GitHub Actions · Maven · Gradle |
+| **Testing** | JUnit · Mockito · Cypress · Jest · Playwright · Jasmine · Karma |
+| **AI** | GPT Models · RAG Pipelines · Cursor · Claude · GitHub Copilot |
+
+---
+
+# `16 // EDUCATION`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Florida Atlantic University
+
+**Master's — Computer Science**
+
+Advanced graduate study in computer science and software engineering.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Sathyabama University
+
+**Bachelor's — Computer Science**
+
+Foundation in software engineering, programming, data systems and computer science.
+
+</td>
+</tr>
+</table>
+
+---
+
+# `17 // GITHUB.SIGNAL`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshaykonagalla&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykonagalla&theme=github-dark-blue&hide_border=true"/>
+
+<br/><br/>
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykonagalla&layout=compact&theme=github_dark&hide_border=true&langs_count=10"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykonagalla&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# `18 // WHAT.I.BRING`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ⚙️ FULL STACK
+
+Frontend through backend,
+data and infrastructure.
+
+`React`
+
+`Spring Boot`
+
+`PostgreSQL`
+
+`AWS`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 ARCHITECTURE
+
+Systems designed around
+maintainability and scale.
+
+`Microservices`
+
+`Kafka`
+
+`DDD`
+
+`SOLID`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 DELIVERY
+
+Engineering beyond
+local development.
+
+`CI/CD`
+
+`Docker`
+
+`Kubernetes`
+
+`Observability`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🔐 SECURITY
+
+Security built into
+application architecture.
+
+`OAuth2`
+
+`JWT`
+
+`Spring Security`
+
+`SSO`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧪 QUALITY
+
+Confidence through
+automated validation.
+
+`JUnit`
+
+`Mockito`
+
+`Cypress`
+
+`Playwright`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤝 COLLABORATION
+
+Engineering is a
+team discipline.
+
+`Code Reviews`
+
+`Agile`
+
+`Documentation`
+
+`Ownership`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `19 // CONNECT`
+
+<div align="center">
+
+### `LET'S BUILD SOFTWARE WORTH SCALING.`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-AKSHAY_KONAGALLA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaykonagalla)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-AKSHAYKONAGALLA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaykonagalla)
+
+[![Email](https://img.shields.io/badge/EMAIL-MRKONAGALLA%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrkonagalla@gmail.com)
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=akshaykonagalla&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS&labelColor=0D1117)
+
+<br/><br/>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│      DESIGN  →  BUILD  →  TEST  →  SHIP  →  IMPROVE        │
+│                                                              │
+│          Building systems. Solving real problems.            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### `< BUILDING SYSTEMS • SOLVING PROBLEMS • SHIPPING VALUE />`
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00B4D8,50:0D1B2A,100:050A14"/>
 
 </div>
